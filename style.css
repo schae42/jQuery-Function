@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+body{
+    width: 970px;
+    height: 3150px;
+    border: black 5px solid;
+}
+.function{
+    width: 800px;
+    height: 150px;
+    text-align: center;
+    border-bottom: black 5px solid;
+    margin-left: 80px;
+}
+h1{
+    margin: 20px 0px;
+    text-align: center;
+}
+p{
+    margin-bottom: 20px;
+}
+button{
+    width: auto;
+    height: 30px;
+    text-align: left;
+    border: black 2px solid;
+    background-color: #FFA8B6;
+    padding: 0px 20px;
+    box-shadow:3px 3px black;
+    border-radius: 5px;
+    margin-right: 500px;
+    
+}
+.function.last{
+    border-bottom: none;
+}
+.invisible{
+    color: olivedrab;
+}
